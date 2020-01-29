@@ -1,0 +1,31 @@
+
+.first {
+        color:green;
+        font-weight: bold;
+	font-family: monospace;
+}
+.two {
+        color:darkblue;
+        font-weight: bold;
+	font-family: monospace;
+}
+.three {
+        color:red;
+        font-weight: bold;
+	font-family: monospace;
+}
+body {
+	background-color: beige;
+	font-weight: bold;
+}
+h1 {
+	color: tomato;
+    background-color: beige;
+    font-family: monospace";
+}
+.main {
+	text-align: center;
+}
+.maintwo {
+	text-align: center;
+}
